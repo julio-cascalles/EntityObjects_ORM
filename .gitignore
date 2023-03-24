@@ -1,0 +1,4 @@
+*.exe
+__history/
+__recovery/
+*.dcu

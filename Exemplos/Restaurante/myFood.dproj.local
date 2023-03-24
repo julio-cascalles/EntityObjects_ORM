@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/09/24 16:08:27.000.068,=C:\Users\FAST SHOP\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/11/01 19:45:24.000.979,=C:\Users\FAST SHOP\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/11/01 19:50:36.000.854,C:\VM_Shared\EntityObjects_ORM\Restaurante\Unit2.dfm=C:\Users\FAST SHOP\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2018/11/01 19:50:36.000.854,C:\VM_Shared\EntityObjects_ORM\Restaurante\Unit2.pas=C:\Users\FAST SHOP\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/11/01 19:50:38.000.633,C:\VM_Shared\EntityObjects_ORM\Restaurante\Project1.dproj=C:\Users\FAST SHOP\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/11/12 17:11:42.000.254,=C:\VM_Shared\EntityObjects_ORM\Restaurante\Unit1.pas</Transaction>
+    <Transaction>2018/11/14 18:05:42.000.052,C:\VM_Shared\~EntityObjects_ORM\Restaurante\Main.dfm=C:\VM_Shared\~EntityObjects_ORM\Restaurante\Unit2.dfm</Transaction>
+    <Transaction>2018/11/14 18:05:42.000.052,C:\VM_Shared\~EntityObjects_ORM\Restaurante\Main.pas=C:\VM_Shared\~EntityObjects_ORM\Restaurante\Unit2.pas</Transaction>
+    <Transaction>2018/11/14 18:07:27.000.468,C:\VM_Shared\~EntityObjects_ORM\Restaurante\EditaPedido.pas=C:\VM_Shared\~EntityObjects_ORM\Restaurante\Unit1.pas</Transaction>
+    <Transaction>2018/11/14 18:07:27.000.468,C:\VM_Shared\~EntityObjects_ORM\Restaurante\EditaPedido.dfm=C:\VM_Shared\~EntityObjects_ORM\Restaurante\Unit1.dfm</Transaction>
+    <Transaction>2018/11/14 18:10:20.000.604,C:\VM_Shared\~EntityObjects_ORM\Restaurante\myFood.dproj=C:\VM_Shared\~EntityObjects_ORM\Restaurante\Project1.dproj</Transaction>
+    <Transaction>2018/11/14 19:07:26.000.519,C:\VM_Shared\~EntityObjects_ORM\Restaurante\myFood.dproj=C:\VM_Shared\~EntityObjects_ORM\Restaurante\myFood.dproj</Transaction>
+    <Transaction>2018/11/23 15:48:42.000.771,C:\VM_Shared\EntityObjects_ORM\Exemplos\Restaurante\EditaPedido.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,20 @@
+1 --- Compile o Tutorial-Entity
+2 --- Execute o tutorial (na pasta raiz)
+3 --- Escolha a versão da IDE do Delphi
+4 --- Escolha o tipo de banco de dados
+5 --- Selecione o componente de acesso a dados
+6 --- Preencha os parâmetros de conexão
+7 --- Clique em "Próximo"
+8 --- Clique em "Importar"
+9 --- Selecione o arquivo Dados.sql
+10 -- Clique em "Próximo"
+11 -- Marque a opção "Criar Fields das classses"
+12 -- Clique em "Gravar"
+13 -- Digite "Dados.pas" no nome do arquivo (NA PASTA \AgendaMedica)
+14 -- Clique em Gravar e feche o programa.
+15 -- Abra o projeto "\AgendaMedica\ExemploEntity.dpr"
+16 -- Se tudo der certo, ao executar o projeto você verá o ORM em ação!
+
+
+[]´s
+Júlio Cascalles.
